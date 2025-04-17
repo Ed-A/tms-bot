@@ -1,0 +1,77 @@
+It is time to log in!
+2025-04-16 10:20:00.505817+05:45
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Detected text: OZeotc
+2025-04-16 10:20:27.438841+05:45
+CAPTCHA: OZeotc
+2025-04-16 10:20:27.438841+05:45
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Detected text: f84876
+2025-04-16 10:20:39.250885+05:45
+CAPTCHA: f84876
+2025-04-16 10:20:39.250885+05:45
+Span text: 20220107525
+2025-04-16 10:20:49.360924+05:45
+✅ Logged in as expected.
+2025-04-16 10:20:49.360924+05:45
+It is time to place orders
+2025-04-16 10:29:59.569320+05:45
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit' and text()='BUY']"}
+  (Session info: chrome=135.0.7049.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF64DCA5355+78597]
+	GetHandleVerifier [0x00007FF64DCA53B0+78688]
+	(No symbol) [0x00007FF64DA591AA]
+	(No symbol) [0x00007FF64DAAF149]
+	(No symbol) [0x00007FF64DAAF3FC]
+	(No symbol) [0x00007FF64DB02467]
+	(No symbol) [0x00007FF64DAD712F]
+	(No symbol) [0x00007FF64DAFF2BB]
+	(No symbol) [0x00007FF64DAD6EC3]
+	(No symbol) [0x00007FF64DAA03F8]
+	(No symbol) [0x00007FF64DAA1163]
+	GetHandleVerifier [0x00007FF64DF4EF0D+2870973]
+	GetHandleVerifier [0x00007FF64DF496B8+2848360]
+	GetHandleVerifier [0x00007FF64DF66993+2967875]
+	GetHandleVerifier [0x00007FF64DCC019A+188746]
+	GetHandleVerifier [0x00007FF64DCC847F+222255]
+	GetHandleVerifier [0x00007FF64DCAD2D4+111236]
+	GetHandleVerifier [0x00007FF64DCAD482+111666]
+	GetHandleVerifier [0x00007FF64DC935A9+5465]
+	BaseThreadInitThunk [0x00007FFD1A9FE8D7+23]
+	RtlUserThreadStart [0x00007FFD1BCF14FC+44]
+
+hopefully bought at 2025-04-16 10:30:17.902117+05:45
+It is time to place orders
+2025-04-16 10:59:59.574558+05:45
+Message: element click intercepted: Element <button _ngcontent-ddg-c7="" class="btn btn-sm btn-primary" type="submit">...</button> is not clickable at point (890, 446). Other element would receive the click: <div class="toast-text">...</div>
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF64DCA5355+78597]
+	GetHandleVerifier [0x00007FF64DCA53B0+78688]
+	(No symbol) [0x00007FF64DA591AA]
+	(No symbol) [0x00007FF64DAB7089]
+	(No symbol) [0x00007FF64DAB4A42]
+	(No symbol) [0x00007FF64DAB1AE1]
+	(No symbol) [0x00007FF64DAB0A42]
+	(No symbol) [0x00007FF64DAA2204]
+	(No symbol) [0x00007FF64DAD70EA]
+	(No symbol) [0x00007FF64DAA1AB6]
+	(No symbol) [0x00007FF64DAD7300]
+	(No symbol) [0x00007FF64DAFF2BB]
+	(No symbol) [0x00007FF64DAD6EC3]
+	(No symbol) [0x00007FF64DAA03F8]
+	(No symbol) [0x00007FF64DAA1163]
+	GetHandleVerifier [0x00007FF64DF4EF0D+2870973]
+	GetHandleVerifier [0x00007FF64DF496B8+2848360]
+	GetHandleVerifier [0x00007FF64DF66993+2967875]
+	GetHandleVerifier [0x00007FF64DCC019A+188746]
+	GetHandleVerifier [0x00007FF64DCC847F+222255]
+	GetHandleVerifier [0x00007FF64DCAD2D4+111236]
+	GetHandleVerifier [0x00007FF64DCAD482+111666]
+	GetHandleVerifier [0x00007FF64DC935A9+5465]
+	BaseThreadInitThunk [0x00007FFD1A9FE8D7+23]
+	RtlUserThreadStart [0x00007FFD1BCF14FC+44]
+
+hopefully bought at 2025-04-16 11:00:12.248413+05:45
+✅ Email sent successfully!
